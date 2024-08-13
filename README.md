@@ -21,5 +21,5 @@ This project scrapes job postings from LinkedIn, uses Chat GPT to categorise the
 ## Configuration
 
 1. Locate the config.ini file in the root directory of this project and update it with your personal information (e.g., email settings, job search criteria).
-2. In the job_search.py script, update the LINKEDIN_SESSION_COOKIE at line 29 with your personal LinkedIn session cookie. Detailed instructions on how to retrieve your personal cookie can be found in the get.cookie.txt file included in this repository.
+2. In the job_search.py script, update the LINKEDIN_SESSION_COOKIE at line 29 with your personal LinkedIn session cookie. Detailed instructions on how to retrieve your personal cookie can be found in the get.cookie.py file included in this repository.
    
