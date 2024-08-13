@@ -28,5 +28,5 @@ print(cookies_txt)
 
 # STEP 4. Run the py file to retrieve your LinkedIn session cookies.
 
-# Result:
+# RESULT:
 # The result should be a printed cookie dictionary, which you can now use in the main script 'job_search.py'.
