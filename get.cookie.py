@@ -1,11 +1,9 @@
-#step 1 login to your LinkedIn account using a Google Chrome browser. 
-#step 2 install dependencies on your local computer. 
-
-!pip install requests
-!pip install browser_cookie3
-!pip install linkedin-api
-
-#step 3 save the below script to your local computer and run the script
+#STEP 1. Login to your LinkedIn account using a Google Chrome browser. 
+#STEP 2. Install the necessary dependencies on your local computer by running the following commands:
+    pip install requests
+    pip install browser_cookie3
+    pip install linkedin-api
+# STEP 3. Copy and paste the below and save in a py file on your local computer.
 
 import requests
 import browser_cookie3
@@ -28,4 +26,7 @@ cookies_123 = requests.utils.cookiejar_from_dict(cookies_txt)
 print(cookies_txt)
 
 
-#result should be a printed cookie which you can now use in the main script job_search.py 
+# STEP 4. Run the py file to retrieve your LinkedIn session cookies.
+
+# Result:
+# The result should be a printed cookie dictionary, which you can now use in the main script 'job_search.py'.
