@@ -17,3 +17,8 @@ This project automates the process of job searching by leveraging Python and the
    ```bash
    pip install -r requirements.txt
 
+## Configuration
+
+1. Save the config.ini file and update the file with your personal information.
+2. Note in the main script job_search.py the LinkedIn cookie must also be updated with your personal cookie: refer to get.cookie.txt for instructions to get the cookie. 
+   
