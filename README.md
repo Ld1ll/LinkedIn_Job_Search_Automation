@@ -6,7 +6,7 @@ This project scrapes job postings from LinkedIn, uses Chat GPT to categorise the
 
 ## Features
 - Automated job search and filtering based on user-defined criteria.
-- Utalises linkedin-api to get job data. 
+- Utilises linkedin-api to get job data. 
 - Utilises OpenAI's GPT-3.5-turbo model for categorising job postings.
 - Sends a HTML report via email with categorised job listings.
 
