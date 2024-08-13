@@ -1,6 +1,7 @@
 # Job Search Automation using Python and ChatGPT
 
-This project automates the process of job searching by leveraging Python and the OpenAI API (ChatGPT) together with the free LinkedIn API. The LinkedIn API used in this project can be found [here](https://github.com/username/linkedin-api-project). It scrapes job postings from LinkedIn, categorises them based on your specific criteria, and emails the results daily.
+This project automates the process of job searching by leveraging Python and the OpenAI API (ChatGPT) together with the free LinkedIn API. The LinkedIn API used in this project can be found [here](https://github.com/username/linkedin-api-project). 
+This project scrapes job postings from LinkedIn, uses Chat GPT to categorise the jobs based on your specific criteria, and emails the results daily.
 
 
 ## Features
