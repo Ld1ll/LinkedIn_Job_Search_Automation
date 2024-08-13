@@ -19,6 +19,6 @@ This project automates the process of job searching by leveraging Python and the
 
 ## Configuration
 
-1. Save the config.ini file and update the file with your personal information.
-2. Note in the main script job_search.py the LinkedIn cookie must also be updated with your personal cookie: refer to get.cookie.txt for instructions to get the cookie. 
+1. Locate the config.ini file in the root directory of this project and update it with your personal information (e.g., email settings, job search criteria).
+2. In the job_search.py script, update the LINKEDIN_SESSION_COOKIE at line 29 with your personal LinkedIn session cookie. Detailed instructions on how to retrieve your personal cookie can be found in the get.cookie.txt file included in this repository.
    
